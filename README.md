@@ -10,10 +10,7 @@
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
+
 
 ---
 
@@ -57,4 +54,8 @@ This project enhances understanding of:
 2. Enter the folder:
     ```bash
    cd minitalk
+   ```
+   3. compile:
+   ```bash
+   make
    ```

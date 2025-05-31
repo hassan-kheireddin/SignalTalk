@@ -4,7 +4,7 @@
 
 ## 🧾 Project Overview
 
-`Minitalk` is a Unix-based communication project that demonstrates low-level interprocess communication (IPC) in C using Unix signals. It is simple client-server messaging system where the client sends a string message to the server, one bit at a time, using only signals (`SIGUSR1` and `SIGUSR2`).
+`SignalTalk` is a Unix-based communication project that demonstrates low-level interprocess communication (IPC) in C using Unix signals. It is simple client-server messaging system where the client sends a string message to the server, one bit at a time, using only signals (`SIGUSR1` and `SIGUSR2`).
 
 ## 🎯 Objective
 

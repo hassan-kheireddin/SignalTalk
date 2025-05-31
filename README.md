@@ -1,6 +1,6 @@
-# 📡 SignalsTalk
+# 📡 SignalTalk
 
-![Text Alt](inc/miniserver.jpg)
+![Text Alt](signaltalk/inc/miniserver.jpg)
 
 ## 🧾 Project Overview
 
